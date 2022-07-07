@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "219-contains-duplicate-II.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysabel-guiang/javascript-algorithims.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysabel-guiang/javascript-algorithims/issues"
+  },
+  "homepage": "https://github.com/ysabel-guiang/javascript-algorithims#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
