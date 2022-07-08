@@ -9,7 +9,6 @@ const divisorSubstrings = function (num, k) {
 
   for (let i = 0; i <= stringNum.length - k; i++) {
     let subString = parseInt(stringNum.slice(i, k + i))
-    console.log(stringNum.slice(i, k + i))
     if (num % subString === 0) count += 1
   }
   return count
